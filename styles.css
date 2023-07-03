@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+section{
+    background-color: rgb(159, 64, 248);
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+button{
+    height: 50px;
+    padding: 15px 25px 15px 25px;
+    background-color:darkviolet;
+    color: white;
+}
